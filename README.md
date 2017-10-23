@@ -9,7 +9,7 @@ Vue2.0全家桶 + axios + Vuex + Mint-ui + Mock.js + Stylus
 
 ### 预览效果
 👉[预览地址(PC端建议在Chrome下开启调试模式或移动端浏览)](https://zzr716.github.io/vue_lofter/dist/index.html)  
-👉[源码地址](https://github.com/zzr716/vue_lofter)✨✨求你的小星星～
+👉[源码地址](https://github.com/zzr716/vue_lofter)✨✨✨求你的小星星～
 
 ### 主要依赖
   + Vue2.0 前端页面展示
