@@ -100,8 +100,10 @@ export default new Router({
 
 ```
 ## 效果图
-![20171023_223259.gif](https://i.loli.net/2017/10/23/59edfe73e2105.gif)
-![20171023_224106.gif](https://i.loli.net/2017/10/23/59edffdd87fb8.gif)
+![lu.gif](https://i.loli.net/2017/10/23/59ee07922ca46.gif)
+![lu1.gif](https://i.loli.net/2017/10/23/59ee0793a3039.gif)
+![lu2.gif](https://i.loli.net/2017/10/23/59ee079058b8b.gif)
+![lu3.gif](https://i.loli.net/2017/10/23/59ee079044c54.gif)
 ## 待完善功能
 
 用户登录退出的实现  
