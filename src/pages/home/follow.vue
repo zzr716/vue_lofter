@@ -12,19 +12,19 @@ export default {
         return {
             list: [
                 {
-                    img:require('../../assets/newFans.png'),
+                    img:require('../../assets/movie.jpg'),
                     name: '一句话影评',
                     num: 20
                 },
                 {
-                    img:require('../../assets/newFans.png'),
-                    name: '一句话影评',
-                    num: 20
+                    img:require('../../assets/meiduan.jpg'),
+                    name: '美短',
+                    num: 130
                 },
                 {
-                    img:require('../../assets/newFans.png'),
-                    name: '一句话影评',
-                    num: 20
+                    img:require('../../assets/dog.jpg'),
+                    name: '萨摩耶',
+                    num: 260
                 }
             ]
         }

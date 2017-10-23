@@ -40,7 +40,7 @@ import AlloyFinger from 'alloyfinger'
 export default {
     data () {
         return {
-            navs: ['推荐','萌宠','电影','旅行','文具控','美食','摄影课堂'],
+            navs: ['推荐','萌宠','电影','旅行','美食','文具控','摄影课堂'],
             searNavs: ['标签','用户','文章'],
             chooseItem: 0,
             isBottom: true,

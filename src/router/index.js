@@ -42,22 +42,22 @@ export default new Router({
         {
           path: 'page4',
           name: 'page4',
-          component: resolve => require(['@/pages/found/animal'], resolve)
+          component: resolve => require(['@/pages/found/travel'], resolve)
         },
         {
           path: 'page5',
           name: 'page5',
-          component: resolve => require(['@/pages/found/animal'], resolve)
+          component: resolve => require(['@/pages/found/food'], resolve)
         },
         {
           path: 'page6',
           name: 'page6',
-          component: resolve => require(['@/pages/found/animal'], resolve)
+          component: resolve => require(['@/pages/found/pen'], resolve)
         },
         {
           path: 'page7',
           name: 'page7',
-          component: resolve => require(['@/pages/found/animal'], resolve)
+          component: resolve => require(['@/pages/found/photo'], resolve)
         }
       ]
     },

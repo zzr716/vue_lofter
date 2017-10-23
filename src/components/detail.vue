@@ -69,7 +69,7 @@ export default {
   },
   methods : {
     getDetail (item) {
-      this.detailsShow = true
+      // this.detailsShow = true
     },
     ...mapActions({
       getDetail: 'getDeatil'

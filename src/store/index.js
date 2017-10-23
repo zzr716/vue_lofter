@@ -23,7 +23,7 @@ export default new Vuex.Store ({
                     word : ": 萌萌哒",
                     url : "#"}]
             }
-        },
+        }
     },
     actions: {
         getDeatil ({commit}, detailLists) {
